@@ -1,6 +1,6 @@
 # flutter1
 
-A new Flutter project.
+Simple Flutter Counter App
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+APP SCREENSHOT:
+
+![Screenshot 2021-10-20 172526](https://user-images.githubusercontent.com/45349730/138190240-546c3829-7556-4daa-be62-d2de28c22f2f.png)
+
